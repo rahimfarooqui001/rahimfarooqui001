@@ -1,9 +1,9 @@
-<!-- Hero Header with Typing SVG and Hand Emoji -->
+
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Mohammed+Rahimuddin+Farooqui;Full-stack+Web+Developer;Always+learning+new+things!&center=false&width=600&height=45&color=58A6FF&size=22" alt="Typing SVG" />
 </h1>
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 I'm a Full-Stack Web Developer 🧑‍💻 with a passion for building intuitive user interfaces 🎨 and scalable backend architectures 🏗️. I thrive in turning complex problems into elegant, high-performance solutions that deliver value to both users and businesses.
 
@@ -25,9 +25,11 @@ I'm a Full-Stack Web Developer 🧑‍💻 with a passion for building intuitive
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rahimuddin-farooqui-276b0631a/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahimfarooqui38@gmail.com)
 
+
+
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### 🎨 Frontend:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,36 +67,21 @@ I'm a Full-Stack Web Developer 🧑‍💻 with a passion for building intuitive
 
 ---
 
-## 📈 GitHub Analytics
 
-### 🔥 Streak Stats (Includes Private Commits)
-⚠️ *GitHub Streaks will appear once consistent commit activity is detected.*
-
-### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahimfarooqui001&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📚 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimfarooqui001&layout=compact&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
+# 📊 GitHub Analytics:
+![](https://github-readme-stats.vercel.app/api?username=rahimfarooqui001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rahimfarooqui001&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimfarooqui001&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rahimfarooqui001&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rahimfarooqui001&theme=gruvbox&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🚀 Top Contributions
-
-[![Top Contributions](https://github-contributor-stats.vercel.app/api?username=rahimfarooqui001&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app)
-
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rahimfarooqui001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 👁️ Profile Views
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=rahimfarooqui001&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rahimfarooqui001&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ---
 
-<!-- Created using GPRM (https://gprm.itsvg.in) -->
 
