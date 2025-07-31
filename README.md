@@ -56,7 +56,10 @@ A passionate full-stack developer focused on building modern, performant, and us
 ## 📈 GitHub Analytics
 
 ### 🔥 Streak Stats (Includes Private Commits)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahimfarooqui001&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
+
+<!-- ⚠️ *Streak stats will appear here once you have consistent visible commit activity.*   -->
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahimfarooqui001&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
