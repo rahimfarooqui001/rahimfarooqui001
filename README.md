@@ -1,7 +1,12 @@
 # 👋 Hi there! I'm Mohammed Rahimuddin Farooqui
-<h1>
+<!-- <h1>
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Mohammed+Rahimuddin+Farooqui;Full-stack+Web+Developer;Always+learning+new+things!&center=false&width=600&height=45&color=58A6FF&size=22" alt="Typing SVG" />
+</h1> -->
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Frontend+Developer;Backend+Developer;UI/UX+Enthusiast;Problem+Solver;Always+learning+new+things!&center=false&width=600&height=45&color=58A6FF&size=22" alt="Typing SVG" />
 </h1>
+
 
 # 🙋‍♂️ About Me
 
